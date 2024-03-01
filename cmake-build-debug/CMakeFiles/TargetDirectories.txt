@@ -1,0 +1,3 @@
+C:/Users/yehia/CLionProjects/EasyTripBusCompany/PhaseTwoCode/cmake-build-debug/CMakeFiles/EasyTripBusCompany.dir
+C:/Users/yehia/CLionProjects/EasyTripBusCompany/PhaseTwoCode/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yehia/CLionProjects/EasyTripBusCompany/PhaseTwoCode/cmake-build-debug/CMakeFiles/rebuild_cache.dir

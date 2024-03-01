@@ -1,0 +1,4 @@
+total Number of Buses: 20
+MBuses: 5
+WBuses: 15
+number of passengers: 3 [SP: 1, NP: 1,WP: 1 ]
